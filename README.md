@@ -2,7 +2,7 @@
 Welcome to the Fun Notebooks Repository! This is a collection of Jupyter notebooks that are more about having fun and exploring different ideas than practical application. They are meant to inspire curiosity and demonstrate the wide range of things you can do with Python and data.
 
 ## Repository Structure
-Each notebook is contained in its own folder, which includes the notebook file itself (.ipynb), any necessary data files, and a README file that explains what the notebook does, how to run it, and any interesting findings.
+Each notebook is contained in its own folder, which includes the notebook file itself (.ipynb), any necessary data files, and a README file that explains what the notebook does, how to run it, and any interesting findings or if it small project it is just notebook.
 
 ## Notebooks
 ### Random Google Maps Place
