@@ -6,7 +6,7 @@ Each notebook is contained in its own folder, which includes the notebook file i
 
 ## Notebooks
 ### Random Google Maps Place
-#### Folder: random-google-maps-place
+#### File: Random_place_from_google_maps.ipynb
 
 This notebook uses the Google Maps API to select a random place based on a given location, radius, and type of place. It's like spinning a globe and going wherever your finger lands, but with a little more control over the general area and type of destination.
 
